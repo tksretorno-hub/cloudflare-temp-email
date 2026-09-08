@@ -195,3 +195,8 @@ database_id = "1c52b895-4987-4814-9100-564107c06211"
 # [[services]]
 # binding = "AUTH_INBOX"
 # service = "auth-inbox"
+[vars]
+DOMAINS = ["tuaavodechuteira.com"]
+
+[triggers]
+crons = []
