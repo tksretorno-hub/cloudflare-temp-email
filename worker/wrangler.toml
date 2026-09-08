@@ -171,8 +171,8 @@ ENABLE_AUTO_REPLY = false
 
 [[d1_databases]]
 binding = "DB"
-database_name = "xxx"
-database_id = "xxx"
+database_name = "vmail"
+database_id = "1c52b895-4987-4814-9100-564107c06211"
 
 # Workers AI binding (required for AI email extraction)
 # [ai]
